@@ -1,0 +1,13 @@
+if & else -> controlador de Fluxo
+
+if = se 
+else = se não
+
+Operadores de Comparação
+
+    > maior que
+    < menor que
+    == igual que (comparando um valor com o outro)
+    === igual que (comparando o valor e o tipo)
+    >= maior ou igual que
+    <= menor ou igual que 
