@@ -1,0 +1,10 @@
+Functions / Funções
+    - Trecho de código que é executado
+    SOMENTE quando solicitado (Parente gente boa)
+    -Trecho0 de código que pode ser reutilizado várias vezes
+
+    [] O que é uma função e como usar
+    [] Função VOID (vazia)
+    [] Função com parâmetros
+    [] Função Return
+    [] Arrow Function
