@@ -1,0 +1,30 @@
+DOM = Document Object Model
+DOM é a arvore de elementos do nosso site
+javaScript pode manipular itens da DOM (Ex: Botton, tag, title...)
+
+
+Exemplo:
+
+    HTML -> HEAD
+                -> LINK
+                -> TITLE
+                -> META
+
+            BODY 
+                -> HEADER
+                    -> NAV 
+                    -> DIV
+                        -> IMG
+                        -> BOTTON
+
+                -> MAIN
+                    -> UL
+                        -> LI
+                        -> LI
+                        -> LI
+                    -> H1
+                    -> P
+                    
+                -> FOOTER
+                    -> P
+                    -> H4
