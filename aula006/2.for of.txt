@@ -1,0 +1,3 @@
+Estrutura de repetição - LOOP 
+    - FOR OF
+    - Itera por todos os itens do array
