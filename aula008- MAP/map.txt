@@ -1,0 +1,14 @@
+Map, Redice  e Filter servem para...
+    Manipular arrays
+
+    javaScript Map
+
+    Array Original
+        | 1, 2, 3, 4, 5, 6 | 
+
+    MAP (criar um novo array multiplicando todos os valores por 2.)
+
+    Array novo  
+        | 2, 4, 6, 8, 10, 12 |
+
+    Uso na prática
